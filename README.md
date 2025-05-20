@@ -62,25 +62,33 @@ A simple, beginner-friendly Todo List application built with React (frontend) an
 - npm (comes with Node.js)
 
 ### Backend Setup
-1. Navigate to the backend directory:
+1. Create a new .NET Web API project:
    ```bash
-   cd backend
+   dotnet new webapi -n TodoApi
    ```
-2. Run the .NET application:
+2. Navigate to the TodoApi directory:
+   ```bash
+   cd TodoApi
+   ```
+3. Run the .NET application:
    ```bash
    dotnet run
    The API will be available at http://localhost:5000/api/todo
    ```
 ### Frontend Setup
-1. Navigate to the frontend directory:
+1. Create a new React app:
    ```bash
-   cd frontend
+   npx create-react-app todo-client
    ```
-2. Install dependencies:
+2. Navigate to the todo-client directory:
+   ```bash
+   cd todo-client
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-3. Start the React development server:
+4. Start the React development server:
    ```bash
    npm start
    The application will open in your browser at http://localhost:3000
