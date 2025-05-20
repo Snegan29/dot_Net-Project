@@ -1,0 +1,12 @@
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\TodoApi.exe
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\appsettings.json
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\TodoApi.dll
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\TodoApi.deps.json
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\TodoApi.runtimeconfig.json
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\TodoApi.pdb
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pssj2\Kalvium_Progs\dot_Net\dot_Net-Project\TodoApi\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

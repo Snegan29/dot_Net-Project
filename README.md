@@ -75,6 +75,10 @@ A simple, beginner-friendly Todo List application built with React (frontend) an
    dotnet run
    The API will be available at http://localhost:5000/api/todo
    ```
+3. Top deploy or publish the .NET application:
+   ```bash
+   dotnet publish
+   ```
 ### Frontend Setup
 1. Create a new React app:
    ```bash
